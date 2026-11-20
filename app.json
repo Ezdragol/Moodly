@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Prototipo",
-    "slug": "Prototipo",
+    "name": "Moodly",
+    "slug": "moodly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
